@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @sunsoy
+simple ape who likes the technologies
